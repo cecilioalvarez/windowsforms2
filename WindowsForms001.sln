@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms001", "WindowsF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "..\ADO.NET\Persistencia\Persistencia.csproj", "{104D6570-DCA8-4757-8D0A-B8CCBF490778}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleXML", "ConsoleXML\ConsoleXML.csproj", "{6ECC1AE6-9E27-4F06-9C01-E103803D018D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{104D6570-DCA8-4757-8D0A-B8CCBF490778}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{104D6570-DCA8-4757-8D0A-B8CCBF490778}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{104D6570-DCA8-4757-8D0A-B8CCBF490778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECC1AE6-9E27-4F06-9C01-E103803D018D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECC1AE6-9E27-4F06-9C01-E103803D018D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECC1AE6-9E27-4F06-9C01-E103803D018D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECC1AE6-9E27-4F06-9C01-E103803D018D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
