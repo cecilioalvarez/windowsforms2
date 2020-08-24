@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<personas>
+	<persona>
+		<nombre>pedro</nombre>
+		<apellidos>gomez</apellidos>
+		<edad>20</edad>
+	</persona>
+	<persona>
+		<nombre>gema</nombre>
+		<apellidos>sanchez</apellidos>
+		<edad>40</edad>
+	</persona>
+</personas> 

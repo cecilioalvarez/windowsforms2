@@ -20,6 +20,7 @@ namespace ConsoleXML
                 {
                     Console.WriteLine(lector.Value);
 
+
                 }
 
 
